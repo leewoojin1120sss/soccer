@@ -1,0 +1,2371 @@
+{
+  "source": "https://www.premierleague.com/en/news/4725682",
+  "published": "2026-09-22",
+  "checked": "2026-11-02",
+  "clubs": [
+    {
+      "club": "Arsenal",
+      "players": [
+        {
+          "number": 1,
+          "name": "David Raya"
+        },
+        {
+          "number": 2,
+          "name": "William Saliba"
+        },
+        {
+          "number": 3,
+          "name": "Cristhian Mosquera"
+        },
+        {
+          "number": 4,
+          "name": "Ben White"
+        },
+        {
+          "number": 5,
+          "name": "Piero Hincapie"
+        },
+        {
+          "number": 6,
+          "name": "Gabriel Magalhaes"
+        },
+        {
+          "number": 7,
+          "name": "Bukayo Saka"
+        },
+        {
+          "number": 8,
+          "name": "Martin Odegaard"
+        },
+        {
+          "number": 10,
+          "name": "Eberechi Eze"
+        },
+        {
+          "number": 12,
+          "name": "Jurrien Timber"
+        },
+        {
+          "number": 13,
+          "name": "Kepa Arrizabalaga"
+        },
+        {
+          "number": 14,
+          "name": "Viktor Gyokeres"
+        },
+        {
+          "number": 15,
+          "name": "Ezri Konsa"
+        },
+        {
+          "number": 17,
+          "name": "Christos Tzolis"
+        },
+        {
+          "number": 20,
+          "name": "Noni Madueke"
+        },
+        {
+          "number": 22,
+          "name": "Ethan Nwaneri"
+        },
+        {
+          "number": 23,
+          "name": "Mikel Merino"
+        },
+        {
+          "number": 29,
+          "name": "Kai Havertz"
+        },
+        {
+          "number": 30,
+          "name": "Illan Meslier"
+        },
+        {
+          "number": 33,
+          "name": "Riccardo Calafiori"
+        },
+        {
+          "number": 36,
+          "name": "Martin Zubimendi"
+        },
+        {
+          "number": 39,
+          "name": "Bruno Guimaraes"
+        },
+        {
+          "number": 41,
+          "name": "Declan Rice"
+        },
+        {
+          "number": 49,
+          "name": "Myles Lewis-Skelly"
+        },
+        {
+          "number": 56,
+          "name": "Max Dowman"
+        }
+      ]
+    },
+    {
+      "club": "Aston Villa",
+      "players": [
+        {
+          "number": 1,
+          "name": "Zion Suzuki"
+        },
+        {
+          "number": 2,
+          "name": "Matty Cash"
+        },
+        {
+          "number": 3,
+          "name": "Victor Lindelof"
+        },
+        {
+          "number": 4,
+          "name": "Taylor Harwood-Bellis"
+        },
+        {
+          "number": 5,
+          "name": "Tyrone Mings"
+        },
+        {
+          "number": 6,
+          "name": "Ross Barkley"
+        },
+        {
+          "number": 7,
+          "name": "John McGinn"
+        },
+        {
+          "number": 8,
+          "name": "Boubacar Kamara"
+        },
+        {
+          "number": 10,
+          "name": "Emiliano Buendia"
+        },
+        {
+          "number": 11,
+          "name": "Nicolas Jackson"
+        },
+        {
+          "number": 13,
+          "name": "Matteo Ruggeri"
+        },
+        {
+          "number": 14,
+          "name": "Pau Torres"
+        },
+        {
+          "number": 17,
+          "name": "Alejandro Garnacho"
+        },
+        {
+          "number": 18,
+          "name": "Tammy Abraham"
+        },
+        {
+          "number": 19,
+          "name": "Ibrahim Mbaye"
+        },
+        {
+          "number": 22,
+          "name": "Ian Maatsen"
+        },
+        {
+          "number": 24,
+          "name": "Amadou Onana"
+        },
+        {
+          "number": 26,
+          "name": "Lamare Bogarde"
+        },
+        {
+          "number": 27,
+          "name": "Leon Goretzka"
+        },
+        {
+          "number": 29,
+          "name": "Aaron Wan-Bissaka"
+        },
+        {
+          "number": 35,
+          "name": "Joao Gomes"
+        },
+        {
+          "number": 39,
+          "name": "Brian Madjo"
+        },
+        {
+          "number": 40,
+          "name": "Marco Bizot"
+        },
+        {
+          "number": 42,
+          "name": "James Wright"
+        },
+        {
+          "number": 44,
+          "name": "Johan Manzambi"
+        },
+        {
+          "number": 45,
+          "name": "Triston Rowe"
+        },
+        {
+          "number": 47,
+          "name": "Alysson"
+        },
+        {
+          "number": 48,
+          "name": "Modou Keba Cisse"
+        },
+        {
+          "number": 49,
+          "name": "Bradley Burrowes"
+        },
+        {
+          "number": 53,
+          "name": "George Hemmings"
+        },
+        {
+          "number": 74,
+          "name": "Luka Lynch"
+        }
+      ]
+    },
+    {
+      "club": "AFC Bournemouth",
+      "players": [
+        {
+          "number": 1,
+          "name": "Djordje Petrovic"
+        },
+        {
+          "number": 2,
+          "name": "Julian Araujo"
+        },
+        {
+          "number": 3,
+          "name": "Adrien Truffert"
+        },
+        {
+          "number": 4,
+          "name": "Lewis Cook"
+        },
+        {
+          "number": 5,
+          "name": "James Hill"
+        },
+        {
+          "number": 6,
+          "name": "Julio Soler"
+        },
+        {
+          "number": 7,
+          "name": "David Brooks"
+        },
+        {
+          "number": 8,
+          "name": "Alex Scott"
+        },
+        {
+          "number": 9,
+          "name": "Evanilson"
+        },
+        {
+          "number": 10,
+          "name": "Ryan Christie"
+        },
+        {
+          "number": 11,
+          "name": "Ben Gannon-Doak"
+        },
+        {
+          "number": 12,
+          "name": "Tyler Adams"
+        },
+        {
+          "number": 14,
+          "name": "Antonio Silva"
+        },
+        {
+          "number": 15,
+          "name": "Adam Smith"
+        },
+        {
+          "number": 16,
+          "name": "Marcus Tavernier"
+        },
+        {
+          "number": 17,
+          "name": "Fraser Forster"
+        },
+        {
+          "number": 18,
+          "name": "Bafode Diakite"
+        },
+        {
+          "number": 19,
+          "name": "Justin Kluivert"
+        },
+        {
+          "number": 20,
+          "name": "Michele Di Gregorio"
+        },
+        {
+          "number": 21,
+          "name": "Amine Adli"
+        },
+        {
+          "number": 22,
+          "name": "Junior Kroupi"
+        },
+        {
+          "number": 24,
+          "name": "Juanlu Sanchez"
+        },
+        {
+          "number": 27,
+          "name": "Alex Toth"
+        },
+        {
+          "number": 28,
+          "name": "Max Aarons"
+        },
+        {
+          "number": 29,
+          "name": "Daniel Jebbison"
+        },
+        {
+          "number": 30,
+          "name": "Alvaro Rodriguez"
+        },
+        {
+          "number": 37,
+          "name": "Rayan"
+        },
+        {
+          "number": 44,
+          "name": "Veljko Milosavljevic"
+        },
+        {
+          "number": 47,
+          "name": "Ben Winterburn"
+        }
+      ]
+    },
+    {
+      "club": "Brentford",
+      "players": [
+        {
+          "number": 1,
+          "name": "Caoimhin Kelleher"
+        },
+        {
+          "number": 2,
+          "name": "Aaron Hickey"
+        },
+        {
+          "number": 3,
+          "name": "Rico Henry"
+        },
+        {
+          "number": 4,
+          "name": "Sepp van den Berg"
+        },
+        {
+          "number": 6,
+          "name": "Yehor Yarmoliuk"
+        },
+        {
+          "number": 7,
+          "name": "Kevin Schade"
+        },
+        {
+          "number": 8,
+          "name": "Mathias Jensen"
+        },
+        {
+          "number": 9,
+          "name": "Igor Thiago"
+        },
+        {
+          "number": 10,
+          "name": "Josh Dasilva"
+        },
+        {
+          "number": 11,
+          "name": "Dango Ouattara"
+        },
+        {
+          "number": 12,
+          "name": "Hakon Valdimarsson"
+        },
+        {
+          "number": 13,
+          "name": "Callum Wilson"
+        },
+        {
+          "number": 14,
+          "name": "Fabio Carvalho"
+        },
+        {
+          "number": 17,
+          "name": "Antoni Milambo"
+        },
+        {
+          "number": 18,
+          "name": "Mamadou Sangare"
+        },
+        {
+          "number": 19,
+          "name": "Jaidon Anthony"
+        },
+        {
+          "number": 20,
+          "name": "Kristoffer Ajer"
+        },
+        {
+          "number": 22,
+          "name": "Nathan Collins"
+        },
+        {
+          "number": 23,
+          "name": "Keane Lewis-Potter"
+        },
+        {
+          "number": 24,
+          "name": "Mikkel Damsgaard"
+        },
+        {
+          "number": 25,
+          "name": "El Hadji Malick Diouf"
+        },
+        {
+          "number": 27,
+          "name": "Vitaly Janelt"
+        },
+        {
+          "number": 31,
+          "name": "Ellery Balcombe"
+        },
+        {
+          "number": 33,
+          "name": "Michael Kayode"
+        },
+        {
+          "number": 36,
+          "name": "Kim Ji-Soo"
+        },
+        {
+          "number": 39,
+          "name": "Gustavo Nunes"
+        },
+        {
+          "number": 44,
+          "name": "Jannik Schuster"
+        },
+        {
+          "number": 48,
+          "name": "Benjamin Fredrick"
+        },
+        {
+          "number": 59,
+          "name": "Caelan Avenell"
+        }
+      ]
+    },
+    {
+      "club": "Brighton & Hove Albion",
+      "players": [
+        {
+          "number": 1,
+          "name": "Bart Verbruggen"
+        },
+        {
+          "number": 3,
+          "name": "Jaouen Hadjam"
+        },
+        {
+          "number": 4,
+          "name": "Pascal Struijk"
+        },
+        {
+          "number": 5,
+          "name": "Lewis Dunk"
+        },
+        {
+          "number": 7,
+          "name": "Kaoru Mitoma"
+        },
+        {
+          "number": 8,
+          "name": "Jack Hinshelwood"
+        },
+        {
+          "number": 9,
+          "name": "Stefanos Tzimas"
+        },
+        {
+          "number": 10,
+          "name": "Georginio Rutter"
+        },
+        {
+          "number": 11,
+          "name": "Yankuba Minteh"
+        },
+        {
+          "number": 12,
+          "name": "Promise David"
+        },
+        {
+          "number": 13,
+          "name": "Pascal Gross"
+        },
+        {
+          "number": 14,
+          "name": "Chema Andres"
+        },
+        {
+          "number": 15,
+          "name": "Ibrahim Osman"
+        },
+        {
+          "number": 19,
+          "name": "Charalampos Kostoulas"
+        },
+        {
+          "number": 20,
+          "name": "Costinha"
+        },
+        {
+          "number": 21,
+          "name": "Olivier Boscagli"
+        },
+        {
+          "number": 22,
+          "name": "Amario Cozier-Duberry"
+        },
+        {
+          "number": 23,
+          "name": "Jason Steele"
+        },
+        {
+          "number": 24,
+          "name": "Ferdi Kadioglu"
+        },
+        {
+          "number": 25,
+          "name": "Diego Gomez"
+        },
+        {
+          "number": 26,
+          "name": "Yasin Ayari"
+        },
+        {
+          "number": 27,
+          "name": "Mats Wieffer"
+        },
+        {
+          "number": 28,
+          "name": "Evan Ferguson"
+        },
+        {
+          "number": 29,
+          "name": "Maxim De Cuyper"
+        },
+        {
+          "number": 30,
+          "name": "Michael Svoboda"
+        },
+        {
+          "number": 33,
+          "name": "Matt O'Riley"
+        },
+        {
+          "number": 35,
+          "name": "Malick Yalcouye"
+        },
+        {
+          "number": 36,
+          "name": "Zadok Yohanna"
+        },
+        {
+          "number": 38,
+          "name": "Tom McGill"
+        },
+        {
+          "number": 39,
+          "name": "Femi Azeez"
+        },
+        {
+          "number": 44,
+          "name": "Luka Vuskovic"
+        },
+        {
+          "number": 49,
+          "name": "Nehemiah Oriola"
+        }
+      ]
+    },
+    {
+      "club": "Chelsea",
+      "players": [
+        {
+          "number": 1,
+          "name": "Emiliano Martinez"
+        },
+        {
+          "number": 2,
+          "name": "Marco Palestra"
+        },
+        {
+          "number": 3,
+          "name": "Wesley Fofana"
+        },
+        {
+          "number": 4,
+          "name": "Valentin Barco"
+        },
+        {
+          "number": 5,
+          "name": "Maxence Lacroix"
+        },
+        {
+          "number": 6,
+          "name": "Levi Colwill"
+        },
+        {
+          "number": 7,
+          "name": "Pedro Neto"
+        },
+        {
+          "number": 9,
+          "name": "Joao Pedro"
+        },
+        {
+          "number": 10,
+          "name": "Cole Palmer"
+        },
+        {
+          "number": 11,
+          "name": "Jamie Gittens"
+        },
+        {
+          "number": 14,
+          "name": "Jordan Henderson"
+        },
+        {
+          "number": 17,
+          "name": "Morgan Rogers"
+        },
+        {
+          "number": 18,
+          "name": "Danny Welbeck"
+        },
+        {
+          "number": 21,
+          "name": "Jorrel Hato"
+        },
+        {
+          "number": 22,
+          "name": "Emmanuel Emegha"
+        },
+        {
+          "number": 23,
+          "name": "Geovany Quenda"
+        },
+        {
+          "number": 24,
+          "name": "Reece James"
+        },
+        {
+          "number": 25,
+          "name": "Moises Caicedo"
+        },
+        {
+          "number": 27,
+          "name": "Malo Gusto"
+        },
+        {
+          "number": 28,
+          "name": "Teddy Sharman-Lowe"
+        },
+        {
+          "number": 29,
+          "name": "Pep Chavarria"
+        },
+        {
+          "number": 30,
+          "name": "Aaron Anselmino"
+        },
+        {
+          "number": 32,
+          "name": "Mahdi Nicoll-Jazuli"
+        },
+        {
+          "number": 34,
+          "name": "Josh Acheampong"
+        },
+        {
+          "number": 37,
+          "name": "Olutayo Subuloye"
+        },
+        {
+          "number": 39,
+          "name": "Mike Penders"
+        },
+        {
+          "number": 41,
+          "name": "Estevao"
+        },
+        {
+          "number": 44,
+          "name": "Gabriel Slonina"
+        },
+        {
+          "number": 45,
+          "name": "Romeo Lavia"
+        }
+      ]
+    },
+    {
+      "club": "Coventry City",
+      "players": [
+        {
+          "number": 2,
+          "name": "Ethan Pinnock"
+        },
+        {
+          "number": 3,
+          "name": "Jay Dasilva"
+        },
+        {
+          "number": 4,
+          "name": "Bobby Thomas"
+        },
+        {
+          "number": 5,
+          "name": "Jack Rudoni"
+        },
+        {
+          "number": 6,
+          "name": "Matt Grimes"
+        },
+        {
+          "number": 7,
+          "name": "Tatsuhiro Sakamoto"
+        },
+        {
+          "number": 8,
+          "name": "Caleb Yirenkyi"
+        },
+        {
+          "number": 9,
+          "name": "Ellis Simms"
+        },
+        {
+          "number": 10,
+          "name": "Ephron Mason-Clark"
+        },
+        {
+          "number": 11,
+          "name": "Haji Wright"
+        },
+        {
+          "number": 12,
+          "name": "Stephen Mfuni"
+        },
+        {
+          "number": 13,
+          "name": "Ben Wilson"
+        },
+        {
+          "number": 14,
+          "name": "Taiwo Awoniyi"
+        },
+        {
+          "number": 16,
+          "name": "Frank Onyeka"
+        },
+        {
+          "number": 18,
+          "name": "Loum Tchaouna"
+        },
+        {
+          "number": 19,
+          "name": "Carl Rushworth"
+        },
+        {
+          "number": 20,
+          "name": "Kaine Kesler-Hayden"
+        },
+        {
+          "number": 21,
+          "name": "Jake Bidwell"
+        },
+        {
+          "number": 22,
+          "name": "Joel Latibeaudiere"
+        },
+        {
+          "number": 23,
+          "name": "Brandon Thomas-Asante"
+        },
+        {
+          "number": 24,
+          "name": "Aurele Amenda"
+        },
+        {
+          "number": 25,
+          "name": "Dan Bentley"
+        },
+        {
+          "number": 26,
+          "name": "Luke Woolfenden"
+        },
+        {
+          "number": 27,
+          "name": "Milan van Ewijk"
+        },
+        {
+          "number": 28,
+          "name": "Josh Eccles"
+        },
+        {
+          "number": 29,
+          "name": "Victor Torp"
+        },
+        {
+          "number": 34,
+          "name": "Yann Gboho"
+        },
+        {
+          "number": 38,
+          "name": "Gustavo Hamer"
+        },
+        {
+          "number": 49,
+          "name": "Sidiki Cherif"
+        }
+      ]
+    },
+    {
+      "club": "Crystal Palace",
+      "players": [
+        {
+          "number": 1,
+          "name": "Dean Henderson"
+        },
+        {
+          "number": 3,
+          "name": "Tyrick Mitchell"
+        },
+        {
+          "number": 4,
+          "name": "Chadi Riad"
+        },
+        {
+          "number": 5,
+          "name": "Axel Disasi"
+        },
+        {
+          "number": 6,
+          "name": "Jaydee Canvot"
+        },
+        {
+          "number": 7,
+          "name": "Ismaila Sarr"
+        },
+        {
+          "number": 8,
+          "name": "Jefferson Lerma"
+        },
+        {
+          "number": 9,
+          "name": "Eddie Nketiah"
+        },
+        {
+          "number": 10,
+          "name": "Yeremy Pino"
+        },
+        {
+          "number": 11,
+          "name": "Dwight McNeil"
+        },
+        {
+          "number": 12,
+          "name": "Zavier Gozo"
+        },
+        {
+          "number": 14,
+          "name": "Jean-Philippe Mateta"
+        },
+        {
+          "number": 17,
+          "name": "Takehiro Tomiyasu"
+        },
+        {
+          "number": 18,
+          "name": "Daichi Kamada"
+        },
+        {
+          "number": 19,
+          "name": "Will Hughes"
+        },
+        {
+          "number": 20,
+          "name": "Adam Wharton"
+        },
+        {
+          "number": 21,
+          "name": "Honest Ahanor"
+        },
+        {
+          "number": 22,
+          "name": "Jorgen Strand Larsen"
+        },
+        {
+          "number": 23,
+          "name": "Quinten Timber"
+        },
+        {
+          "number": 24,
+          "name": "Dario Osorio"
+        },
+        {
+          "number": 25,
+          "name": "Anan Khalaili"
+        },
+        {
+          "number": 26,
+          "name": "Chris Richards"
+        },
+        {
+          "number": 27,
+          "name": "Matheus Franca"
+        },
+        {
+          "number": 28,
+          "name": "Cheick Doucoure"
+        },
+        {
+          "number": 29,
+          "name": "Evann Guessand"
+        },
+        {
+          "number": 30,
+          "name": "Oscar Mingueza"
+        },
+        {
+          "number": 31,
+          "name": "Remi Matthews"
+        },
+        {
+          "number": 33,
+          "name": "Ben Chilwell"
+        },
+        {
+          "number": 44,
+          "name": "Walter Benitez"
+        }
+      ]
+    },
+    {
+      "club": "Everton",
+      "players": [
+        {
+          "number": 1,
+          "name": "Jordan Pickford"
+        },
+        {
+          "number": 2,
+          "name": "Ainsley Maitland-Niles"
+        },
+        {
+          "number": 4,
+          "name": "Jarrad Branthwaite"
+        },
+        {
+          "number": 5,
+          "name": "Michael Keane"
+        },
+        {
+          "number": 6,
+          "name": "James Tarkowski"
+        },
+        {
+          "number": 8,
+          "name": "Kiernan Dewsbury-Hall"
+        },
+        {
+          "number": 10,
+          "name": "Jack Grealish"
+        },
+        {
+          "number": 11,
+          "name": "Thierno Barry"
+        },
+        {
+          "number": 12,
+          "name": "Mark Travers"
+        },
+        {
+          "number": 15,
+          "name": "Jake O'Brien"
+        },
+        {
+          "number": 16,
+          "name": "Vitalii Mykolenko"
+        },
+        {
+          "number": 19,
+          "name": "Tyrique George"
+        },
+        {
+          "number": 20,
+          "name": "Tyler Dibling"
+        },
+        {
+          "number": 22,
+          "name": "Brennan Johnson"
+        },
+        {
+          "number": 23,
+          "name": "Christian Norgaard"
+        },
+        {
+          "number": 24,
+          "name": "Charly Alcaraz"
+        },
+        {
+          "number": 30,
+          "name": "Hayden Hackney"
+        },
+        {
+          "number": 31,
+          "name": "Tom King"
+        },
+        {
+          "number": 34,
+          "name": "Merlin Rohl"
+        },
+        {
+          "number": 37,
+          "name": "James Garner"
+        },
+        {
+          "number": 45,
+          "name": "Harrison Armstrong"
+        },
+        {
+          "number": 47,
+          "name": "Fraser Barnsley"
+        }
+      ]
+    },
+    {
+      "club": "Fulham",
+      "players": [
+        {
+          "number": 1,
+          "name": "Bernd Leno"
+        },
+        {
+          "number": 2,
+          "name": "Kenny Tete"
+        },
+        {
+          "number": 3,
+          "name": "Calvin Bassey"
+        },
+        {
+          "number": 4,
+          "name": "Jorge Cuenca"
+        },
+        {
+          "number": 5,
+          "name": "Joachim Andersen"
+        },
+        {
+          "number": 6,
+          "name": "Harrison Reed"
+        },
+        {
+          "number": 7,
+          "name": "Gonzalo Garcia"
+        },
+        {
+          "number": 8,
+          "name": "Cesar Palacios"
+        },
+        {
+          "number": 9,
+          "name": "Rodrigo Muniz"
+        },
+        {
+          "number": 10,
+          "name": "Tom Cairney"
+        },
+        {
+          "number": 11,
+          "name": "Kevin"
+        },
+        {
+          "number": 14,
+          "name": "Oscar Bobb"
+        },
+        {
+          "number": 15,
+          "name": "Hugo Larsson"
+        },
+        {
+          "number": 16,
+          "name": "Sander Berge"
+        },
+        {
+          "number": 17,
+          "name": "Alex Iwobi"
+        },
+        {
+          "number": 18,
+          "name": "Jonah Kusi-Asare"
+        },
+        {
+          "number": 19,
+          "name": "Shea Charles"
+        },
+        {
+          "number": 20,
+          "name": "Manuel Angel"
+        },
+        {
+          "number": 21,
+          "name": "Timothy Castagne"
+        },
+        {
+          "number": 22,
+          "name": "David Affengruber"
+        },
+        {
+          "number": 23,
+          "name": "Benjamin Lecomte"
+        },
+        {
+          "number": 24,
+          "name": "Josh King"
+        },
+        {
+          "number": 30,
+          "name": "Ryan Sessegnon"
+        },
+        {
+          "number": 32,
+          "name": "Emile Smith Rowe"
+        },
+        {
+          "number": 33,
+          "name": "Antonee Robinson"
+        },
+        {
+          "number": 35,
+          "name": "Macaulay Zepa"
+        },
+        {
+          "number": 36,
+          "name": "Alex Borto"
+        },
+        {
+          "number": 39,
+          "name": "Michael Allen"
+        },
+        {
+          "number": 44,
+          "name": "Luc De Fougerolles"
+        }
+      ]
+    },
+    {
+      "club": "Hull City",
+      "players": [
+        {
+          "number": 1,
+          "name": "Jack Butland"
+        },
+        {
+          "number": 2,
+          "name": "Lewie Coyle"
+        },
+        {
+          "number": 3,
+          "name": "Ryan Giles"
+        },
+        {
+          "number": 4,
+          "name": "Charlie Hughes"
+        },
+        {
+          "number": 5,
+          "name": "Hidemasa Morita"
+        },
+        {
+          "number": 6,
+          "name": "Semi Ajayi"
+        },
+        {
+          "number": 7,
+          "name": "Sorba Thomas"
+        },
+        {
+          "number": 8,
+          "name": "Eliot Matazo"
+        },
+        {
+          "number": 9,
+          "name": "Oliver McBurnie"
+        },
+        {
+          "number": 10,
+          "name": "Mohamed Belloumi"
+        },
+        {
+          "number": 11,
+          "name": "Joe Gelhardt"
+        },
+        {
+          "number": 12,
+          "name": "Dillon Phillips"
+        },
+        {
+          "number": 14,
+          "name": "Jens Hjerto-Dahl"
+        },
+        {
+          "number": 15,
+          "name": "John Egan"
+        },
+        {
+          "number": 17,
+          "name": "Paddy McNair"
+        },
+        {
+          "number": 18,
+          "name": "Brooke Norton-Cuffy"
+        },
+        {
+          "number": 19,
+          "name": "Konstantinos Tzolakis"
+        },
+        {
+          "number": 21,
+          "name": "Elliot Stroud"
+        },
+        {
+          "number": 22,
+          "name": "Lucas Herrington"
+        },
+        {
+          "number": 23,
+          "name": "Matt Targett"
+        },
+        {
+          "number": 25,
+          "name": "Matt Crooks"
+        },
+        {
+          "number": 27,
+          "name": "Regan Slater"
+        },
+        {
+          "number": 28,
+          "name": "Ilyas Ansah"
+        },
+        {
+          "number": 29,
+          "name": "Lucas Gourna-Douath"
+        },
+        {
+          "number": 32,
+          "name": "Nobel Mendy"
+        },
+        {
+          "number": 33,
+          "name": "Abdulkadir Omur"
+        },
+        {
+          "number": 42,
+          "name": "Tim Iroegbunam"
+        },
+        {
+          "number": 50,
+          "name": "Mohamed-Ali Cho"
+        }
+      ]
+    },
+    {
+      "club": "Ipswich Town",
+      "players": [
+        {
+          "number": 1,
+          "name": "Alex Palmer"
+        },
+        {
+          "number": 2,
+          "name": "Darnell Furlong"
+        },
+        {
+          "number": 3,
+          "name": "Leif Davis"
+        },
+        {
+          "number": 4,
+          "name": "Cedric Kipre"
+        },
+        {
+          "number": 5,
+          "name": "Azor Matusiwa"
+        },
+        {
+          "number": 6,
+          "name": "Issa Diop"
+        },
+        {
+          "number": 7,
+          "name": "Abdul Fatawu"
+        },
+        {
+          "number": 8,
+          "name": "Sindre Egeli"
+        },
+        {
+          "number": 9,
+          "name": "Zian Flemming"
+        },
+        {
+          "number": 10,
+          "name": "Julio Enciso"
+        },
+        {
+          "number": 11,
+          "name": "Jaden Philogene"
+        },
+        {
+          "number": 12,
+          "name": "Florentino"
+        },
+        {
+          "number": 14,
+          "name": "Jack Taylor"
+        },
+        {
+          "number": 19,
+          "name": "Emersonn"
+        },
+        {
+          "number": 20,
+          "name": "Kasey McAteer"
+        },
+        {
+          "number": 23,
+          "name": "Sasa Lukic"
+        },
+        {
+          "number": 24,
+          "name": "Jacob Greaves"
+        },
+        {
+          "number": 25,
+          "name": "Exequiel Palacios"
+        },
+        {
+          "number": 26,
+          "name": "Dara O'Shea"
+        },
+        {
+          "number": 27,
+          "name": "David Button"
+        },
+        {
+          "number": 28,
+          "name": "Christian Walton"
+        },
+        {
+          "number": 29,
+          "name": "Chuba Akpom"
+        },
+        {
+          "number": 32,
+          "name": "Marcelino Nunez"
+        },
+        {
+          "number": 33,
+          "name": "Anis Mehmeti"
+        },
+        {
+          "number": 37,
+          "name": "Kjell Scherpen"
+        },
+        {
+          "number": 38,
+          "name": "Daizen Maeda"
+        },
+        {
+          "number": 42,
+          "name": "Abdoul Ouattara"
+        },
+        {
+          "number": 47,
+          "name": "Jack Clarke"
+        }
+      ]
+    },
+    {
+      "club": "Leeds United",
+      "players": [
+        {
+          "number": 1,
+          "name": "James Trafford"
+        },
+        {
+          "number": 2,
+          "name": "Jayden Bogle"
+        },
+        {
+          "number": 3,
+          "name": "Gabriel Gudmundsson"
+        },
+        {
+          "number": 4,
+          "name": "Ethan Ampadu"
+        },
+        {
+          "number": 5,
+          "name": "Tarik Muharemovic"
+        },
+        {
+          "number": 6,
+          "name": "Joe Rodon"
+        },
+        {
+          "number": 7,
+          "name": "Daniel James"
+        },
+        {
+          "number": 8,
+          "name": "Sean Longstaff"
+        },
+        {
+          "number": 9,
+          "name": "Dominic Calvert-Lewin"
+        },
+        {
+          "number": 10,
+          "name": "Harry Wilson"
+        },
+        {
+          "number": 11,
+          "name": "Brenden Aaronson"
+        },
+        {
+          "number": 14,
+          "name": "Lukas Nmecha"
+        },
+        {
+          "number": 15,
+          "name": "Jaka Bijol"
+        },
+        {
+          "number": 16,
+          "name": "Michael Zetterer"
+        },
+        {
+          "number": 18,
+          "name": "Anton Stach"
+        },
+        {
+          "number": 19,
+          "name": "Noah Okafor"
+        },
+        {
+          "number": 21,
+          "name": "Alex Cairns"
+        },
+        {
+          "number": 22,
+          "name": "Ao Tanaka"
+        },
+        {
+          "number": 23,
+          "name": "Jean-Matteo Bahoya"
+        },
+        {
+          "number": 24,
+          "name": "James Justin"
+        },
+        {
+          "number": 26,
+          "name": "Melvin Bard"
+        },
+        {
+          "number": 30,
+          "name": "Nico Elvedi"
+        },
+        {
+          "number": 44,
+          "name": "Ilia Gruev"
+        },
+        {
+          "number": 48,
+          "name": "Rory Mahady"
+        },
+        {
+          "number": 50,
+          "name": "Alfie Cresswell"
+        },
+        {
+          "number": 65,
+          "name": "Jayden Lienou"
+        },
+        {
+          "number": 72,
+          "name": "Callum Mills"
+        }
+      ]
+    },
+    {
+      "club": "Liverpool",
+      "players": [
+        {
+          "number": 1,
+          "name": "Alisson Becker"
+        },
+        {
+          "number": 2,
+          "name": "Joe Gomez"
+        },
+        {
+          "number": 3,
+          "name": "Wataru Endo"
+        },
+        {
+          "number": 4,
+          "name": "Virgil van Dijk"
+        },
+        {
+          "number": 5,
+          "name": "Jeremy Jacquet"
+        },
+        {
+          "number": 6,
+          "name": "Milos Kerkez"
+        },
+        {
+          "number": 7,
+          "name": "Florian Wirtz"
+        },
+        {
+          "number": 8,
+          "name": "Dominik Szoboszlai"
+        },
+        {
+          "number": 9,
+          "name": "Alexander Isak"
+        },
+        {
+          "number": 10,
+          "name": "Alexis Mac Allister"
+        },
+        {
+          "number": 12,
+          "name": "Conor Bradley"
+        },
+        {
+          "number": 14,
+          "name": "Federico Chiesa"
+        },
+        {
+          "number": 15,
+          "name": "Giovanni Leoni"
+        },
+        {
+          "number": 18,
+          "name": "Cody Gakpo"
+        },
+        {
+          "number": 21,
+          "name": "Kostas Tsimikas"
+        },
+        {
+          "number": 22,
+          "name": "Hugo Ekitike"
+        },
+        {
+          "number": 23,
+          "name": "Victor Munoz"
+        },
+        {
+          "number": 25,
+          "name": "Giorgi Mamardashvili"
+        },
+        {
+          "number": 28,
+          "name": "Freddie Woodman"
+        },
+        {
+          "number": 29,
+          "name": "Bradley Barcola"
+        },
+        {
+          "number": 30,
+          "name": "Jeremie Frimpong"
+        },
+        {
+          "number": 33,
+          "name": "Ronald Araujo"
+        },
+        {
+          "number": 38,
+          "name": "Ryan Gravenberch"
+        },
+        {
+          "number": 42,
+          "name": "Trey Nyoni"
+        },
+        {
+          "number": 44,
+          "name": "Luke Chambers"
+        },
+        {
+          "number": 52,
+          "name": "Isaac Mabaya"
+        },
+        {
+          "number": 53,
+          "name": "James McConnell"
+        },
+        {
+          "number": 56,
+          "name": "Vitezslav Jaros"
+        },
+        {
+          "number": 67,
+          "name": "Lewis Koumas"
+        },
+        {
+          "number": 73,
+          "name": "Rio Ngumoha"
+        },
+        {
+          "number": 76,
+          "name": "Jayden Danns"
+        },
+        {
+          "number": 95,
+          "name": "Harvey Davies"
+        }
+      ]
+    },
+    {
+      "club": "Manchester City",
+      "players": [
+        {
+          "number": 1,
+          "name": "Gianluigi Donnarumma"
+        },
+        {
+          "number": 3,
+          "name": "Ruben Dias"
+        },
+        {
+          "number": 5,
+          "name": "Elliot Anderson"
+        },
+        {
+          "number": 6,
+          "name": "Marc Guehi"
+        },
+        {
+          "number": 7,
+          "name": "Iliman Ndiaye"
+        },
+        {
+          "number": 8,
+          "name": "Mateo Kovacic"
+        },
+        {
+          "number": 9,
+          "name": "Erling Haaland"
+        },
+        {
+          "number": 10,
+          "name": "Rayan Cherki"
+        },
+        {
+          "number": 11,
+          "name": "Jeremy Doku"
+        },
+        {
+          "number": 13,
+          "name": "Marcus Bettinelli"
+        },
+        {
+          "number": 17,
+          "name": "Enzo Fernandez"
+        },
+        {
+          "number": 21,
+          "name": "Rayan Ait-Nouri"
+        },
+        {
+          "number": 22,
+          "name": "Vitor Reis"
+        },
+        {
+          "number": 24,
+          "name": "Josko Gvardiol"
+        },
+        {
+          "number": 27,
+          "name": "Matheus Nunes"
+        },
+        {
+          "number": 28,
+          "name": "Geronimo Rulli"
+        },
+        {
+          "number": 30,
+          "name": "Claudio Echeverri"
+        },
+        {
+          "number": 32,
+          "name": "Ayyoub Bouaddi"
+        },
+        {
+          "number": 33,
+          "name": "Nico O'Reilly"
+        },
+        {
+          "number": 37,
+          "name": "Allan"
+        },
+        {
+          "number": 42,
+          "name": "Antoine Semenyo"
+        },
+        {
+          "number": 45,
+          "name": "Abdukodir Khusanov"
+        },
+        {
+          "number": 47,
+          "name": "Phil Foden"
+        },
+        {
+          "number": 56,
+          "name": "Ryan McAidoo"
+        },
+        {
+          "number": 61,
+          "name": "Kaden Braithwaite"
+        },
+        {
+          "number": 82,
+          "name": "Rico Lewis"
+        }
+      ]
+    },
+    {
+      "club": "Manchester United",
+      "players": [
+        {
+          "number": 1,
+          "name": "Senne Lammens"
+        },
+        {
+          "number": 2,
+          "name": "Diogo Dalot"
+        },
+        {
+          "number": 3,
+          "name": "Noussair Mazraoui"
+        },
+        {
+          "number": 4,
+          "name": "Matthijs de Ligt"
+        },
+        {
+          "number": 5,
+          "name": "Harry Maguire"
+        },
+        {
+          "number": 6,
+          "name": "Lisandro Martinez"
+        },
+        {
+          "number": 7,
+          "name": "Mason Mount"
+        },
+        {
+          "number": 8,
+          "name": "Bruno Fernandes"
+        },
+        {
+          "number": 9,
+          "name": "Marcus Rashford"
+        },
+        {
+          "number": 10,
+          "name": "Matheus Cunha"
+        },
+        {
+          "number": 11,
+          "name": "Joshua Zirkzee"
+        },
+        {
+          "number": 12,
+          "name": "Karl Darlow"
+        },
+        {
+          "number": 13,
+          "name": "Patrick Dorgu"
+        },
+        {
+          "number": 15,
+          "name": "Leny Yoro"
+        },
+        {
+          "number": 16,
+          "name": "Amad Diallo"
+        },
+        {
+          "number": 17,
+          "name": "Andrey Santos"
+        },
+        {
+          "number": 18,
+          "name": "Youri Tielemans"
+        },
+        {
+          "number": 19,
+          "name": "Bryan Mbeumo"
+        },
+        {
+          "number": 20,
+          "name": "Carlos Baleba"
+        },
+        {
+          "number": 22,
+          "name": "Tom Heaton"
+        },
+        {
+          "number": 23,
+          "name": "Luke Shaw"
+        },
+        {
+          "number": 25,
+          "name": "Manuel Ugarte"
+        },
+        {
+          "number": 26,
+          "name": "Ayden Heaven"
+        },
+        {
+          "number": 30,
+          "name": "Benjamin Sesko"
+        },
+        {
+          "number": 31,
+          "name": "Shea Lacey"
+        },
+        {
+          "number": 37,
+          "name": "Kobbie Mainoo"
+        },
+        {
+          "number": 38,
+          "name": "Jack Fletcher"
+        },
+        {
+          "number": 39,
+          "name": "Tyler Fletcher"
+        },
+        {
+          "number": 41,
+          "name": "Harry Amass"
+        },
+        {
+          "number": 45,
+          "name": "Dermot Mee"
+        }
+      ]
+    },
+    {
+      "club": "Newcastle United",
+      "players": [
+        {
+          "number": 1,
+          "name": "Nick Pope"
+        },
+        {
+          "number": 2,
+          "name": "Tino Livramento"
+        },
+        {
+          "number": 3,
+          "name": "Lewis Hall"
+        },
+        {
+          "number": 4,
+          "name": "Sven Botman"
+        },
+        {
+          "number": 5,
+          "name": "Fabian Schar"
+        },
+        {
+          "number": 6,
+          "name": "Nico Gonzalez"
+        },
+        {
+          "number": 7,
+          "name": "Joelinton"
+        },
+        {
+          "number": 8,
+          "name": "Aladji Bamba"
+        },
+        {
+          "number": 9,
+          "name": "Yoane Wissa"
+        },
+        {
+          "number": 10,
+          "name": "William Osula"
+        },
+        {
+          "number": 11,
+          "name": "Harvey Barnes"
+        },
+        {
+          "number": 12,
+          "name": "Malick Thiaw"
+        },
+        {
+          "number": 14,
+          "name": "Sean Steur"
+        },
+        {
+          "number": 17,
+          "name": "Bazoumana Toure"
+        },
+        {
+          "number": 19,
+          "name": "Anthony Elanga"
+        },
+        {
+          "number": 20,
+          "name": "Matias Fernandez-Pardo"
+        },
+        {
+          "number": 21,
+          "name": "Lukas Hornicek"
+        },
+        {
+          "number": 23,
+          "name": "Jacob Murphy"
+        },
+        {
+          "number": 24,
+          "name": "Ewen Jaouen"
+        },
+        {
+          "number": 28,
+          "name": "Joe Willock"
+        },
+        {
+          "number": 29,
+          "name": "Mark Gillespie"
+        },
+        {
+          "number": 31,
+          "name": "Aidan Harris"
+        },
+        {
+          "number": 33,
+          "name": "Dan Burn"
+        },
+        {
+          "number": 37,
+          "name": "Amar Dedic"
+        },
+        {
+          "number": 41,
+          "name": "Jacob Ramsey"
+        },
+        {
+          "number": 51,
+          "name": "Leo Shahar"
+        },
+        {
+          "number": 67,
+          "name": "Lewis Miley"
+        }
+      ]
+    },
+    {
+      "club": "Nottingham Forest",
+      "players": [
+        {
+          "number": 2,
+          "name": "Ousmane Diomande"
+        },
+        {
+          "number": 3,
+          "name": "Neco Williams"
+        },
+        {
+          "number": 4,
+          "name": "Morato"
+        },
+        {
+          "number": 5,
+          "name": "Murillo"
+        },
+        {
+          "number": 6,
+          "name": "Ibrahim Sangare"
+        },
+        {
+          "number": 7,
+          "name": "Callum Hudson-Odoi"
+        },
+        {
+          "number": 8,
+          "name": "Nicolas Dominguez"
+        },
+        {
+          "number": 9,
+          "name": "Chris Wood"
+        },
+        {
+          "number": 10,
+          "name": "Morgan Gibbs-White"
+        },
+        {
+          "number": 11,
+          "name": "Igor Jesus"
+        },
+        {
+          "number": 12,
+          "name": "John Victor"
+        },
+        {
+          "number": 14,
+          "name": "Dan Ndoye"
+        },
+        {
+          "number": 15,
+          "name": "Arnaud Kalimuendo"
+        },
+        {
+          "number": 19,
+          "name": "Liam Delap"
+        },
+        {
+          "number": 21,
+          "name": "Xaver Schlager"
+        },
+        {
+          "number": 22,
+          "name": "Ryan Yates"
+        },
+        {
+          "number": 23,
+          "name": "Jair Cunha"
+        },
+        {
+          "number": 24,
+          "name": "James McAtee"
+        },
+        {
+          "number": 25,
+          "name": "Luca Netz"
+        },
+        {
+          "number": 26,
+          "name": "Matz Sels"
+        },
+        {
+          "number": 27,
+          "name": "Daniel Munoz"
+        },
+        {
+          "number": 31,
+          "name": "Nikola Milenkovic"
+        },
+        {
+          "number": 33,
+          "name": "Steven Benda"
+        },
+        {
+          "number": 34,
+          "name": "Ola Aina"
+        },
+        {
+          "number": 37,
+          "name": "Nicolo Savona"
+        },
+        {
+          "number": 44,
+          "name": "Zach Abbott"
+        },
+        {
+          "number": 63,
+          "name": "Aaron Bott"
+        }
+      ]
+    },
+    {
+      "club": "Sunderland",
+      "players": [
+        {
+          "number": 4,
+          "name": "Kevin Danso"
+        },
+        {
+          "number": 5,
+          "name": "Dan Ballard"
+        },
+        {
+          "number": 6,
+          "name": "Dayann Methalie"
+        },
+        {
+          "number": 7,
+          "name": "Chemsdine Talbi"
+        },
+        {
+          "number": 8,
+          "name": "Alan Browne"
+        },
+        {
+          "number": 9,
+          "name": "Brian Brobbey"
+        },
+        {
+          "number": 10,
+          "name": "Nilson Angulo"
+        },
+        {
+          "number": 11,
+          "name": "Chris Rigg"
+        },
+        {
+          "number": 12,
+          "name": "Thomas Meunier"
+        },
+        {
+          "number": 13,
+          "name": "Luke O'Nien"
+        },
+        {
+          "number": 14,
+          "name": "Romaine Mundle"
+        },
+        {
+          "number": 15,
+          "name": "Omar Alderete"
+        },
+        {
+          "number": 17,
+          "name": "Reinildo Mandava"
+        },
+        {
+          "number": 18,
+          "name": "Wilson Isidor"
+        },
+        {
+          "number": 19,
+          "name": "Habib Diarra"
+        },
+        {
+          "number": 20,
+          "name": "Nordi Mukiele"
+        },
+        {
+          "number": 21,
+          "name": "Simon Moore"
+        },
+        {
+          "number": 22,
+          "name": "Robin Roefs"
+        },
+        {
+          "number": 27,
+          "name": "Noah Sadiki"
+        },
+        {
+          "number": 28,
+          "name": "Enzo Le Fee"
+        },
+        {
+          "number": 29,
+          "name": "Jules Ahoka"
+        },
+        {
+          "number": 31,
+          "name": "Melker Ellborg"
+        },
+        {
+          "number": 32,
+          "name": "Trai Hume"
+        },
+        {
+          "number": 34,
+          "name": "Granit Xhaka"
+        },
+        {
+          "number": 37,
+          "name": "Jocelin Ta Bi"
+        },
+        {
+          "number": 39,
+          "name": "Malick Fofana"
+        },
+        {
+          "number": 57,
+          "name": "Tymur Tutierov"
+        }
+      ]
+    },
+    {
+      "club": "Tottenham Hotspur",
+      "players": [
+        {
+          "number": 3,
+          "name": "Andy Robertson"
+        },
+        {
+          "number": 4,
+          "name": "Tosin Adarabioyo"
+        },
+        {
+          "number": 5,
+          "name": "Marcos Senesi"
+        },
+        {
+          "number": 6,
+          "name": "Jan Paul van Hecke"
+        },
+        {
+          "number": 7,
+          "name": "Xavi Simons"
+        },
+        {
+          "number": 8,
+          "name": "Conor Gallagher"
+        },
+        {
+          "number": 10,
+          "name": "James Maddison"
+        },
+        {
+          "number": 11,
+          "name": "Mathys Tel"
+        },
+        {
+          "number": 13,
+          "name": "Destiny Udogie"
+        },
+        {
+          "number": 14,
+          "name": "Archie Gray"
+        },
+        {
+          "number": 15,
+          "name": "Lucas Bergvall"
+        },
+        {
+          "number": 16,
+          "name": "Sandro Tonali"
+        },
+        {
+          "number": 17,
+          "name": "Savio"
+        },
+        {
+          "number": 18,
+          "name": "Mateus Fernandes"
+        },
+        {
+          "number": 19,
+          "name": "Dominic Solanke"
+        },
+        {
+          "number": 20,
+          "name": "Mohammed Kudus"
+        },
+        {
+          "number": 21,
+          "name": "Dejan Kulusevski"
+        },
+        {
+          "number": 22,
+          "name": "Omar Marmoush"
+        },
+        {
+          "number": 23,
+          "name": "Pedro Porro"
+        },
+        {
+          "number": 27,
+          "name": "Mykhailo Mudryk"
+        },
+        {
+          "number": 28,
+          "name": "Wilson Odobert"
+        },
+        {
+          "number": 30,
+          "name": "Rodrigo Bentancur"
+        },
+        {
+          "number": 31,
+          "name": "Antonin Kinsky"
+        },
+        {
+          "number": 33,
+          "name": "Ben Davies"
+        },
+        {
+          "number": 37,
+          "name": "Micky van de Ven"
+        },
+        {
+          "number": 39,
+          "name": "Martin Dubravka"
+        },
+        {
+          "number": 40,
+          "name": "Brandon Austin"
+        },
+        {
+          "number": 47,
+          "name": "Mikey Moore"
+        },
+        {
+          "number": 51,
+          "name": "Jacob Knightbridge"
+        },
+        {
+          "number": 68,
+          "name": "Luca Williams-Barnett"
+        }
+      ]
+    }
+  ]
+}

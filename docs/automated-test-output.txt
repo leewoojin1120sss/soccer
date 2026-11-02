@@ -1,0 +1,28 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> touchline-owner@1.0.0 test
+> node --test tests/*.test.mjs
+
+✔ verified 2026/27 membership, distinct real IDs, first teams and provenance (32.8344ms)
+✔ circle fixture generation: 380 unique matches, 19 home and away, every pair twice (127.545488ms)
+✔ exact five phases, 19+19 games, points, goals and financial settlement agree (1853.257218ms)
+✔ reproducible seed and independently changing match results (3299.376596ms)
+✔ transfer negotiation changes roster, wages, budget and starting team; failed offers charge nothing (927.730683ms)
+✔ unknown affiliation is not treated as a freely signable real player (107.204481ms)
+✔ sales and loans update actual ownership and cash; contracts can be renewed or expire (2084.827578ms)
+✔ injured star cannot play, manager selection and investment have measurable effects (997.786481ms)
+✔ manager firing and hiring charge compensation and change tactical adaptation (78.008903ms)
+✔ owner decisions affect morale, money and fan satisfaction and cannot repeat (73.559904ms)
+✔ save round trip validates state and rejects corrupt standings / duplicate players (991.708405ms)
+✔ negative finances and missed targets never end the career (907.118728ms)
+✔ all 20 clubs play seasons safely and only the bottom three get game over (36663.420687ms)
+✔ 20-year world soak: aging, youth, promotion, retirement, records, 380 games remain sound (42071.647789ms)
+✔ foreign clubs renew independently while the owner’s expired contracts are released (3122.330611ms)
+ℹ tests 15
+ℹ suites 0
+ℹ pass 15
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 93638.233332

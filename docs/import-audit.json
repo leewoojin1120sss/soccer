@@ -1,0 +1,117 @@
+{
+  "rawRecords": 50149,
+  "retainedPlayers": 22353,
+  "unmatchedFpl": [
+    {
+      "name": "Femi Azeez",
+      "fplCode": 471551
+    },
+    {
+      "name": "Younes Ibrahim",
+      "fplCode": 661016
+    },
+    {
+      "name": "Mahdi Nicoll-Jazuli",
+      "fplCode": 636846
+    },
+    {
+      "name": "Olutayo Subuloye",
+      "fplCode": 616109
+    },
+    {
+      "name": "Ben Wilson",
+      "fplCode": 110690
+    },
+    {
+      "name": "Jake Bidwell",
+      "fplCode": 80178
+    },
+    {
+      "name": "Jack Rudoni",
+      "fplCode": 480457
+    },
+    {
+      "name": "Ephron Mason-Clark",
+      "fplCode": 241293
+    },
+    {
+      "name": "Josh Eccles",
+      "fplCode": 439668
+    },
+    {
+      "name": "George Shepherd",
+      "fplCode": 684268
+    },
+    {
+      "name": "Hayden Hackney",
+      "fplCode": 244860
+    },
+    {
+      "name": "Macaulay Zepa",
+      "fplCode": 616069
+    },
+    {
+      "name": "Charlie Hughes",
+      "fplCode": 501902
+    },
+    {
+      "name": "Lewie Coyle",
+      "fplCode": 193278
+    },
+    {
+      "name": "Cathal McCarthy",
+      "fplCode": 661800
+    },
+    {
+      "name": "Óscar Zambrano",
+      "fplCode": 553783
+    },
+    {
+      "name": "Ewen Jaouen",
+      "fplCode": 554578
+    },
+    {
+      "name": "Mason Miley",
+      "fplCode": 665243
+    },
+    {
+      "name": "Vakhtang Salia",
+      "fplCode": 601767
+    },
+    {
+      "name": "Michael Mills",
+      "fplCode": 655585
+    },
+    {
+      "name": "Kyran Thompson",
+      "fplCode": 671875
+    },
+    {
+      "name": "Juan Angulo",
+      "fplCode": 661313
+    }
+  ],
+  "unverifiedFormerEpl": 249,
+  "eplCounts": {
+    "Arsenal": 24,
+    "Aston Villa": 29,
+    "AFC Bournemouth": 27,
+    "Brentford": 29,
+    "Brighton & Hove Albion": 32,
+    "Chelsea": 29,
+    "Coventry City": 30,
+    "Crystal Palace": 29,
+    "Everton": 22,
+    "Fulham": 26,
+    "Hull City": 34,
+    "Ipswich Town": 28,
+    "Leeds United": 26,
+    "Liverpool": 31,
+    "Manchester City": 26,
+    "Manchester United": 30,
+    "Newcastle United": 30,
+    "Nottingham Forest": 25,
+    "Tottenham Hotspur": 31,
+    "Sunderland": 26
+  }
+}

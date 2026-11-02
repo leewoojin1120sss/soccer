@@ -1,0 +1,16 @@
+{
+  "name": "touchline-owner",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "EPL owner career simulator with an offline real-player database",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check src/engine.js && node --check src/app.js && node --check src/storage.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

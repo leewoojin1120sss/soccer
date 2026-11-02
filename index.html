@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+    />
+    <meta name="theme-color" content="#163e32" />
+    <meta
+      name="description"
+      content="터치라인 — EPL 구단주 경영 시뮬레이션. 20개 구단, 세계 주요 리그 실존 선수, 끝없이 이어지는 커리어."
+    />
+    <title>터치라인 · EPL 구단주</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div id="app">
+      <div class="boot">
+        <div class="wordmark">TOUCHLINE<span>OWNER’S CLUB</span></div>
+        <div class="loader"></div>
+        <p>축구 세계를 불러오는 중입니다.</p>
+      </div>
+    </div>
+    <div id="modal-root"></div>
+    <div id="toast" role="status" aria-live="polite"></div>
+    <input
+      type="file"
+      id="import-save"
+      accept="application/json,.json"
+      hidden
+    />
+    <script type="module" src="./src/app.js"></script>
+  </body>
+</html>

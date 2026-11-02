@@ -1,0 +1,6 @@
+dist/
+node_modules/
+*.zip
+.openai/local*
+.DS_Store
+qa/

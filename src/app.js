@@ -316,7 +316,9 @@ function filtered() {
       a = a.filter((p) =>
         league === "FREE"
           ? !p.clubId && !p.unverifiedAffiliation
-          : cBy(p.clubId)?.league === league,
+          : league === "GB1"
+            ? state.activeIds.includes(p.clubId)
+            : cBy(p.clubId)?.league === league,
       );
     a = a.filter(
       (p) =>

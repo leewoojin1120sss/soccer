@@ -3791,3 +3791,50 @@ td b {
     margin-top: 0;
   }
 }
+.potential-band {
+  display: block;
+  font-size: 9px;
+  color: #81916e;
+  margin-top: 5px;
+  white-space: nowrap;
+}
+.rating-note {
+  border: 1px solid #dce5d2;
+  background: #edf2e6;
+  border-radius: 5px;
+  padding: 13px 14px;
+  margin-top: 14px;
+  font-size: 10px;
+  line-height: 1.8;
+  color: #667c51;
+}
+.rating-note b {
+  font-size: 11px;
+}
+.rating-note p {
+  margin-top: 4px;
+}
+.rating-note > span {
+  display: block;
+  font-size: 9px;
+  color: #8d9e7a;
+  margin-top: 6px;
+}
+.data-update-note {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  background: #e8efdf;
+  color: #678150;
+  border: 1px solid #dae4cc;
+  border-radius: 5px;
+  padding: 10px 13px;
+  margin: 20px 0 0;
+  font-size: 10px;
+}
+.data-update-note .text-button {
+  min-height: 25px;
+  white-space: nowrap;
+  font-size: 10px;
+}

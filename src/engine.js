@@ -9,6 +9,9 @@ export const PHASES = [
 ];
 export const GROUP = {
   GK: "GK",
+  DF: "DF",
+  MF: "MF",
+  FW: "FW",
   CB: "DF",
   LB: "DF",
   RB: "DF",
@@ -148,6 +151,7 @@ export function newGame(data, userId, seed = Date.now() >>> 0) {
     throw Error("지원하지 않는 시작 구단입니다.");
   const s = {
     version: 1,
+    dataRevision: data.meta.dataRevision ?? 1,
     seed,
     serial: 0,
     year: 2026,
@@ -187,6 +191,7 @@ export function newGame(data, userId, seed = Date.now() >>> 0) {
     c.invested = [];
   }
   for (const p of s.players) {
+    p.simAge = p.age ?? p.developmentAge ?? 18;
     p.morale = 75;
     p.fitness = 95;
     p.injury = 0;
@@ -350,6 +355,9 @@ function goals(s, side, count, fixture, home) {
   if (!side.xi.length) return;
   const gw = {
     GK: 0.001,
+    DF: 0.15,
+    MF: 0.7,
+    FW: 2.4,
     CB: 0.12,
     LB: 0.15,
     RB: 0.15,
@@ -826,6 +834,16 @@ function generateYouth(s, cid, n) {
   s.players.push(p);
   return p;
 }
+export function ageProfile(p) {
+  const g = GROUP[p.pos];
+  return {
+    developmentEnd: g === "GK" ? 29 : g === "DF" ? 27 : 26,
+    declineStart:
+      g === "GK" ? 34 : p.pos === "CB" ? 32 : p.pos === "DM" ? 31 : 30,
+    retirementStart: g === "GK" ? 38 : g === "DF" ? 36 : 35,
+    maximumAge: g === "GK" ? 44 : 41,
+  };
+}
 function nextSeason(s) {
   if (!s.settled) throw Error("시즌 결산이 필요합니다.");
   const relegated = table(s)
@@ -860,26 +878,32 @@ function nextSeason(s) {
     const old = p.ca;
     const m = manager(s, p.clubId);
     const cc = club(s, p.clubId);
+    p.simAge = (p.simAge ?? p.age ?? p.developmentAge ?? 18) + 1;
     if (p.age !== null) p.age++;
+    const lifecycleAge = p.age ?? p.simAge,
+      profile = ageProfile(p);
     const apps = p.stats.apps;
     for (const k of ["apps", "goals", "assists"]) p.career[k] += p.stats[k];
-    if (p.age !== null && p.age < 26) {
+    if (lifecycleAge < profile.developmentEnd) {
       const gain =
         ((rng(s) * 1.5 + (apps > 15 ? 1.4 : 0.1) + (cc?.academy ?? 1) * 0.18) *
           (m?.youth ?? 70)) /
         75;
       p.ca = Math.min(p.pa, p.ca + Math.round(gain));
-    } else if (p.age !== null && p.age > 29)
+    } else if (lifecycleAge > profile.declineStart)
       p.ca = Math.max(
         28,
-        p.ca - Math.round((p.age - 29) * 0.32 + rng(s) * 1.3),
+        p.ca -
+          Math.round(
+            (lifecycleAge - profile.declineStart) * 0.22 + rng(s) * 0.8,
+          ),
       );
     p.trend = p.ca - old;
     p.value = round(
       clamp(
         p.value *
           (1 + (p.ca - old) * 0.07 + (apps > 20 ? 0.04 : -0.04)) *
-          (p.age !== null && p.age > 30 ? 0.88 : 1),
+          (lifecycleAge > (GROUP[p.pos] === "GK" ? 33 : 30) ? 0.9 : 1),
         0.05,
         230,
       ),
@@ -889,8 +913,9 @@ function nextSeason(s) {
       p.loanParent = null;
     }
     if (
-      p.age !== null &&
-      (p.age > 40 || (p.age > 34 && rng(s) < (p.age - 33) * 0.055))
+      lifecycleAge > profile.maximumAge ||
+      (lifecycleAge > profile.retirementStart &&
+        rng(s) < (lifecycleAge - profile.retirementStart) * 0.055)
     ) {
       p.retired = true;
       if (p.clubId === s.userId) log(s, "contract", `${p.name} 은퇴`);

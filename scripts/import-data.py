@@ -110,3 +110,8 @@ meta={'version':1,'checkedAt':'2026-11-02','startDate':'2026-07-01','season':'20
 dump('players.json',players);dump('clubs.json',list(clubs.values()));dump('managers.json',managers);dump('meta.json',meta)
 (ROOT/'docs'/'import-audit.json').write_text(json.dumps({'rawRecords':len(raw),'retainedPlayers':len(players),'unmatchedFpl':unmatched,'unverifiedFormerEpl':orphans,'eplCounts':{clubs[id]['name']:sum(p['clubId']==id for p in players) for id in eplids.values()}},ensure_ascii=False,indent=2))
 print(json.dumps({'players':len(players),'clubs':len(clubs),'epl':meta['eplPlayers'],'unmatchedFpl':len(unmatched),'orphans':orphans,'eplCounts':{clubs[id]['short']:sum(p['clubId']==id for p in players) for id in eplids.values()}},ensure_ascii=False))
+
+# Reapply the reviewed official EPL overlay after refreshing the broad overseas snapshot.
+if (D/"pl-audit-input.json").exists():
+ import subprocess
+ subprocess.run([sys.executable,str(ROOT/"scripts/rebuild-pl-audit.py")],check=True)

@@ -1,28 +1,41 @@
 npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
 
-> touchline-owner@1.0.0 test
+> touchline-owner@1.1.0 test
 > node --test tests/*.test.mjs
 
-✔ verified 2026/27 membership, distinct real IDs, first teams and provenance (32.8344ms)
-✔ circle fixture generation: 380 unique matches, 19 home and away, every pair twice (127.545488ms)
-✔ exact five phases, 19+19 games, points, goals and financial settlement agree (1853.257218ms)
-✔ reproducible seed and independently changing match results (3299.376596ms)
-✔ transfer negotiation changes roster, wages, budget and starting team; failed offers charge nothing (927.730683ms)
-✔ unknown affiliation is not treated as a freely signable real player (107.204481ms)
-✔ sales and loans update actual ownership and cash; contracts can be renewed or expire (2084.827578ms)
-✔ injured star cannot play, manager selection and investment have measurable effects (997.786481ms)
-✔ manager firing and hiring charge compensation and change tactical adaptation (78.008903ms)
-✔ owner decisions affect morale, money and fan satisfaction and cannot repeat (73.559904ms)
-✔ save round trip validates state and rejects corrupt standings / duplicate players (991.708405ms)
-✔ negative finances and missed targets never end the career (907.118728ms)
-✔ all 20 clubs play seasons safely and only the bottom three get game over (36663.420687ms)
-✔ 20-year world soak: aging, youth, promotion, retirement, records, 380 games remain sound (42071.647789ms)
-✔ foreign clubs renew independently while the owner’s expired contracts are released (3122.330611ms)
-ℹ tests 15
+✔ 20 official squads are exhaustively reconciled; every audited nationality is sourced (2.825572ms)
+✔ confirmed departed players cannot silently remain in their old EPL first team (0.167613ms)
+✔ Brighton regressions: veterans retain ability, prices do not determine quality, youth is bounded (0.730179ms)
+✔ veteran underpricing and goalkeeper aging are corrected across teams, not just Brighton (0.204077ms)
+✔ migration corrects untouched first-season records and keeps exact match totals/cash/history (644.042412ms)
+✔ migration preserves user acquisitions, renewals, development and later-season fictional ownership (857.936474ms)
+✔ verified midfield/winger details are retained when broad official display categories differ (1.333656ms)
+✔ mid-season correction preserves 190 played games, every goal event and the cash ledger (908.766337ms)
+✔ verified 2026/27 membership, distinct real IDs, first teams and provenance (26.871649ms)
+✔ circle fixture generation: 380 unique matches, 19 home and away, every pair twice (166.707925ms)
+✔ exact five phases, 19+19 games, points, goals and financial settlement agree (1649.974581ms)
+✔ reproducible seed and independently changing match results (1799.439816ms)
+✔ transfer negotiation changes roster, wages, budget and starting team; failed offers charge nothing (519.404895ms)
+✔ unknown affiliation is not treated as a freely signable real player (52.458152ms)
+✔ sales and loans update actual ownership and cash; contracts can be renewed or expire (1586.846553ms)
+✔ injured star cannot play, manager selection and investment have measurable effects (669.784803ms)
+✔ manager firing and hiring charge compensation and change tactical adaptation (58.945113ms)
+✔ owner decisions affect morale, money and fan satisfaction and cannot repeat (68.299039ms)
+✔ save round trip validates state and rejects corrupt standings / duplicate players (814.247201ms)
+✔ negative finances and missed targets never end the career (883.832284ms)
+✔ all 20 clubs play seasons safely and only the bottom three get game over (27341.175591ms)
+✔ 20-year world soak: aging, youth, promotion, retirement, records, 380 games remain sound (55885.722551ms)
+✔ foreign clubs renew independently while the owner’s expired contracts are released (1601.596175ms)
+ℹ tests 23
 ℹ suites 0
-ℹ pass 15
+ℹ pass 23
 ℹ fail 0
 ℹ cancelled 0
 ℹ skipped 0
 ℹ todo 0
-ℹ duration_ms 93638.233332
+ℹ duration_ms 93484.126933
+npm notice
+npm notice New major version of npm available! 11.9.0 -> 12.2.1
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.2.1
+npm notice To update run: npm install -g npm@12.2.1
+npm notice
